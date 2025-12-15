@@ -1,5 +1,5 @@
 streamlit
 google.generativeai
 numpy
-Image
+pillow
 ast
